@@ -1,0 +1,77 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+2092,2091,434165,Abnormal cervical smear,outcome
+2092,2091,436409,Abnormal pupil,outcome
+2092,2091,199192,Abrasion and/or friction burn of trunk without infection,outcome
+2092,2091,4088290,Absence of breast,outcome
+2092,2091,4092879,Absent kidney,outcome
+2092,2091,44783954,Acid reflux,outcome
+2092,2091,75911,Acquired hallux valgus,outcome
+2092,2091,137951,Acquired keratoderma,outcome
+2092,2091,77965,Acquired trigger finger,outcome
+2092,2091,376707,Acute conjunctivitis,outcome
+2092,2091,4103640,Amputated foot,outcome
+2092,2091,73241,Anal and rectal polyp,outcome
+2092,2091,133655,Burn of forearm,outcome
+2092,2091,73560,Calcaneal spur,outcome
+2092,2091,434327,Cannabis abuse,outcome
+2092,2091,4213540,Cervical somatic dysfunction,outcome
+2092,2091,140842,Changes in skin texture,outcome
+2092,2091,81378,Chondromalacia of patella,outcome
+2092,2091,432303,Cocaine abuse,outcome
+2092,2091,4201390,Colostomy present,outcome
+2092,2091,46269889,Complication due to Crohn's disease,outcome
+2092,2091,134438,Contact dermatitis,outcome
+2092,2091,78619,Contusion of knee,outcome
+2092,2091,201606,Crohn's disease,outcome
+2092,2091,76786,Derangement of knee,outcome
+2092,2091,4115402,Difficulty sleeping,outcome
+2092,2091,45757370,Disproportion of reconstructed breast,outcome
+2092,2091,433111,Effects of hunger,outcome
+2092,2091,433527,Endometriosis,outcome
+2092,2091,4170770,Epidermoid cyst,outcome
+2092,2091,4092896,Feces contents abnormal,outcome
+2092,2091,259995,Foreign body in orifice,outcome
+2092,2091,40481632,Ganglion cyst,outcome
+2092,2091,4166231,Genetic predisposition,outcome
+2092,2091,433577,Hammer toe,outcome
+2092,2091,4231770,Hereditary thrombophilia,outcome
+2092,2091,440329,Herpes zoster without complication,outcome
+2092,2091,4012570,High risk sexual behavior,outcome
+2092,2091,4012934,Homocystinuria,outcome
+2092,2091,441788,Human papilloma virus infection,outcome
+2092,2091,4201717,Ileostomy present,outcome
+2092,2091,374375,Impacted cerumen,outcome
+2092,2091,4344500,Impingement syndrome of shoulder region,outcome
+2092,2091,139099,Ingrowing nail,outcome
+2092,2091,444132,Injury of knee,outcome
+2092,2091,196168,Irregular periods,outcome
+2092,2091,432593,Kwashiorkor,outcome
+2092,2091,434203,Late effect of contusion,outcome
+2092,2091,438329,Late effect of motor vehicle accident,outcome
+2092,2091,195873,Leukorrhea,outcome
+2092,2091,4083487,Macular drusen,outcome
+2092,2091,4103703,Melena,outcome
+2092,2091,4209423,Nicotine dependence,outcome
+2092,2091,377572,Noise effects on inner ear,outcome
+2092,2091,40480893,Nonspecific tuberculin test reaction,outcome
+2092,2091,136368,Non-toxic multinodular goiter,outcome
+2092,2091,140648,Onychomycosis due to dermatophyte,outcome
+2092,2091,438130,Opioid abuse,outcome
+2092,2091,4091513,Passing flatus,outcome
+2092,2091,4202045,Postviral fatigue syndrome,outcome
+2092,2091,373478,Presbyopia,outcome
+2092,2091,46286594,Problem related to lifestyle,outcome
+2092,2091,439790,Psychalgia,outcome
+2092,2091,81634,Ptotic breast,outcome
+2092,2091,380706,Regular astigmatism,outcome
+2092,2091,141932,Senile hyperkeratosis,outcome
+2092,2091,36713918,Somatic dysfunction of lumbar region,outcome
+2092,2091,443172,"Splinter of face, without major open wound",outcome
+2092,2091,81151,Sprain of ankle,outcome
+2092,2091,72748,Strain of rotator cuff capsule,outcome
+2092,2091,378427,Tear film insufficiency,outcome
+2092,2091,437264,Tobacco dependence syndrome,outcome
+2092,2091,194083,Vaginitis and vulvovaginitis,outcome
+2092,2091,140641,Verruca vulgaris,outcome
+2092,2091,4115367,Wrist joint pain,outcome
+2092,2091,440193,Wristdrop,outcome
