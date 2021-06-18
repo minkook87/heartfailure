@@ -1,6 +1,17 @@
 HF3
 ==============================
+- Analytics use case(s): Population-Level Estimation
+- Study type: Clinical Application
+- Tags: OHDSI-Korea, FEEDER-NET
+- Study lead: Minkook Son
+- Study lead forums tag: MKSon
+- Study start date: June 18, 2020
+- Study end date:
+- Protocol: Protocol
+- Publications:
+- Results explorer:
 
+This study aims to compare the effectiveness between beta blockers
 
 Requirements
 ============
